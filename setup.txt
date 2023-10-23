@@ -1,0 +1,13 @@
+hi
+
+if windows / termux user follow this steps:
+
+open terminal & type
+
+pkg install tsu
+
+git clone http://github.com/Sadist69/sudos
+
+cd sudos
+
+python3 sadist.py
